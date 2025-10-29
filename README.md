@@ -142,7 +142,7 @@ Precio por pasajero: $42.53
 ## 🧠 Objetivo académico
 
 Este proyecto fue realizado como trabajo práctico grupal para demostrar comprensión de los conceptos de POO, especialmente **polimorfismo**.
-La idea es mostrar cómo distintas clases pueden compartir una misma interfaz pero comportarse de manera diferente según su tipo.
+La idea es mostrar cómo distintas clases pueden compartir una misma clasepero comportarse de manera diferente según su tipo.
 
 ---
 Creditos o propietario: @AlvaroGiachetto
